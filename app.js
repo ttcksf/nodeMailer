@@ -1,3 +1,4 @@
+// node -v
 // npm init --y
 // npm i nodemailer
 // 設定→Googleの設定、Googleアカウントの管理→セキュリティ→２段階認証→アプリパスワード
